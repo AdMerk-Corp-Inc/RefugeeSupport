@@ -4,7 +4,6 @@
 <p>
 Empowering refugees/Immigrants with the tools and resources they need to build a new life. Contribute to a project that's changing the World!</p>
 </p>
-
 AdMerk Corp. Inc. has created an open-source repository named RefugeeSupport on GitHub and seeking the contributions of technical and non-technical persons worldwide wanting to do good in the world.
 
 That is why we need your assistance to help us improve the platform that matches refugees and immigrants with caring sponsors or forward thinking companies to hire and to allow them to begin a new life and achieve self-sufficiency.
@@ -22,3 +21,8 @@ In addition, forward thinking companies will have an excellent opportunity to ta
 Join us in making the world more inclusive and welcoming to refugees and immigrants who are not afraid of the unknown and ready to take any type of job to support their family in a peaceful and positive environment.
 
 Yes, we can make a real difference in the lives of millions of people around the world who are looking for a fresh start in life with your help. Join our open-source project on GitHub.
+
+Tech keywords: refugees, immigrants, support, sponsorship, platform, AI, jobseekers, diversity, inclusivity, open-source, innovation, community, skills, experience, opportunities
+
+Here is a live demo of the project: [Demo Link](http://www.admerkcorp.com)
+
